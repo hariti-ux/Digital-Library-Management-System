@@ -1,0 +1,4 @@
+M1001,Arjun Sharma,9876543210,arjun@gmail.com,Student
+M1002,Priya Nair,9845123456,priya@gmail.com,Faculty
+M1003,Rohit Verma,9901234567,rohit@gmail.com,Student
+M1004,Sneha Iyer,9812345678,sneha@gmail.com,Public

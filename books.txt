@@ -1,0 +1,5 @@
+B001,The Alchemist,Paulo Coelho,Fiction,3
+B002,Ikigai,Hector Garcia,Self-Help,2
+B003,Atomic Habits,James Clear,Self-Help,4
+B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,2
+B005,Wings of Fire,APJ Abdul Kalam,Biography,2
