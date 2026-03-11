@@ -1,6 +1,5 @@
 # ============================================================
 # DIGITAL LIBRARY MANAGEMENT SYSTEM (DLMS)
-# Submitted by: [Your Name] ([Roll Number])
 # ============================================================
 
 import random
